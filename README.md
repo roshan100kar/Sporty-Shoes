@@ -67,5 +67,5 @@ Also for admin authentication spring-security-starter has been used with credent
 ## Docs
 For complete docs please use the docs folder in project directory.
 
-Or Visit:[Docs Website](https://manish-baghel.github.io/sporty_shoes/)
+Or Visit:[Docs Website](/https://github.com/roshan100kar/Sporty-Shoes---SimpliLearn-Phase-3-Assessment)
 ‰
